@@ -1,3 +1,3 @@
-import { toOrdinal, toWords, toWordsOrdinal } from "./functions";
+import { toOrdinal, toWords, toWordsOrdinal } from './functions'
 
-export {toOrdinal,toWords,toWordsOrdinal}
+export { toOrdinal, toWords, toWordsOrdinal }
